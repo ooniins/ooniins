@@ -29,17 +29,7 @@ apps, and exploring anything at the intersection of software and hardware.</p>
 
 <div align="center">
 
-| | |
-|:--|:--|
-| 🔭 | **Currently working on** — my thesis (SafeSeat) & a few side projects |
-| 🌱 | **Currently learning** — data science fundamentals, machine learning |
-| 🤝 | **Looking to collaborate on** — full-stack web & data analytics projects |
-| 🆘 | **Looking for help with** — *(open — let me know!)* |
-| 💬 | **Ask me about** — life, basketball, and code |
-| 📫 | **Reach me at** — [LinkedIn](https://www.linkedin.com/in/niño-gabriel-casanova-a824b0389/) &nbsp;·&nbsp; [Gmail](mailto:gabrielcasanovaq@gmail.com) &nbsp;·&nbsp; [Portfolio](https://casanova-portfolio.vercel.app) |
-| 🌈 | **Pronouns** — He / Him |
-| 🎤 | **Fun fact** — die-hard Michael Jackson fan |
-| 📍 | **Based in** — Lipa City, Batangas, Philippines |
+<img src="assets/about.svg" width="100%"/>
 
 </div>
 
