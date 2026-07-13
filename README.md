@@ -119,12 +119,7 @@ Mobile e-commerce app that lets users buy and sell products from their phones.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ooniins&show_icons=true&theme=dark&bg_color=0A192F&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&border_color=1B3358&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ooniins&theme=dark&background=0A192F&stroke=1B3358&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&border=1B3358" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooniins&layout=compact&theme=dark&bg_color=0A192F&title_color=4FC3F7&text_color=c9d1d9&border_color=1B3358&hide_border=false" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ooniins&theme=dark&background=0A192F&stroke=1B3358&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&border=1B3358" width="60%"/>
 
 </div>
 
