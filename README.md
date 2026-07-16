@@ -44,16 +44,6 @@ apps, and exploring anything at the intersection of software and hardware.</p>
 
 </div>
 
-![Introduction to Python for Developers](https://img.shields.io/badge/DataCamp-Introduction_to_Python_for_Developers-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Introduction to Python](https://img.shields.io/badge/DataCamp-Introduction_to_Python-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Intermediate Python](https://img.shields.io/badge/DataCamp-Intermediate_Python-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Data Manipulation with pandas](https://img.shields.io/badge/DataCamp-Data_Manipulation_with_pandas-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Introduction to R](https://img.shields.io/badge/DataCamp-Introduction_to_R-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Intermediate R](https://img.shields.io/badge/DataCamp-Intermediate_R-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Introduction to the Tidyverse](https://img.shields.io/badge/DataCamp-Introduction_to_the_Tidyverse-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Data Manipulation with dplyr](https://img.shields.io/badge/DataCamp-Data_Manipulation_with_dplyr-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-![Introduction to Git](https://img.shields.io/badge/DataCamp-Introduction_to_Git-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
-
 ## // tech stack
 
 **frontend**
