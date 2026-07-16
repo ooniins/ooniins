@@ -35,36 +35,24 @@ apps, and exploring anything at the intersection of software and hardware.</p>
 
 <br/>
 
-## // projects
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+## // certifications
 
-**🚗 SafeSeat**
-AI/IoT vehicle occupant monitoring using multi-sensor fusion + ML for real-time passenger safety alerts.
-`Python` `C++` `TypeScript` `React Native`
+<div align="center">
 
-</td>
-<td width="33%" valign="top">
+<img src="assets/certifications.svg" width="78%"/>
 
-**📢 SpeakUp**
-Full-stack incident reporting system with secure reporting, real-time tracking, and case management.
-`React` `Supabase` `Vite`
-🔗 [live site](https://proj-big-bro.web.app)
+</div>
 
-</td>
-<td width="33%" valign="top">
-
-**🛍️ StylePick**
-Mobile e-commerce app that lets users buy and sell products from their phones.
-`TypeScript` `React Native` `Supabase`
-
-</td>
-</tr>
-</table>
-
-<br/>
+![Introduction to Python for Developers](https://img.shields.io/badge/DataCamp-Introduction_to_Python_for_Developers-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Introduction to Python](https://img.shields.io/badge/DataCamp-Introduction_to_Python-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Intermediate Python](https://img.shields.io/badge/DataCamp-Intermediate_Python-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Data Manipulation with pandas](https://img.shields.io/badge/DataCamp-Data_Manipulation_with_pandas-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Introduction to R](https://img.shields.io/badge/DataCamp-Introduction_to_R-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Intermediate R](https://img.shields.io/badge/DataCamp-Intermediate_R-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Introduction to the Tidyverse](https://img.shields.io/badge/DataCamp-Introduction_to_the_Tidyverse-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Data Manipulation with dplyr](https://img.shields.io/badge/DataCamp-Data_Manipulation_with_dplyr-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
+![Introduction to Git](https://img.shields.io/badge/DataCamp-Introduction_to_Git-0A192F?style=for-the-badge&logo=datacamp&logoColor=03EF62)
 
 ## // tech stack
 
