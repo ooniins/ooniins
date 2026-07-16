@@ -29,7 +29,7 @@ apps, and exploring anything at the intersection of software and hardware.</p>
 
 <div align="center">
 
-<img src="assets/about.svg" width="100%"/>
+<img src="assets/about.svg" width="78%"/>
 
 </div>
 
