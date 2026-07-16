@@ -46,50 +46,11 @@ apps, and exploring anything at the intersection of software and hardware.</p>
 
 ## // tech stack
 
-**frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-0A192F?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0A192F?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A192F?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+<img src="assets/tech-stack.svg" width="78%"/>
 
-**backend & database**
-
-![Node.js](https://img.shields.io/badge/Node.js-0A192F?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0A192F?style=for-the-badge&logo=express&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-0A192F?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A192F?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-**ai & ml**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-0A192F?style=for-the-badge&logo=openai&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=3776AB)
-![R](https://img.shields.io/badge/R-0A192F?style=for-the-badge&logo=r&logoColor=276DC3)
-
-**languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A192F?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0A192F?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0A192F?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![PHP](https://img.shields.io/badge/PHP-0A192F?style=for-the-badge&logo=php&logoColor=777BB4)
-![R](https://img.shields.io/badge/R-0A192F?style=for-the-badge&logo=r&logoColor=276DC3)
-
-**tools & platforms**
-
-![Git](https://img.shields.io/badge/Git-0A192F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-0A192F?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Vercel](https://img.shields.io/badge/Vercel-0A192F?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Canva](https://img.shields.io/badge/Canva-0A192F?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![VS Code](https://img.shields.io/badge/VS_Code-0A192F?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Claude](https://img.shields.io/badge/Claude-0A192F?style=for-the-badge&logo=claude&logoColor=D97757)
-
-<br/>
+</div>
 
 ## // github stats
 
